@@ -12,4 +12,4 @@ I'm particularly interested in:
 
 I'm currently learning:
 
-- JavaScript
+- JavaScript, Node.JS, React, Angular, MongoDB
