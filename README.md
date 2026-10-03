@@ -14,6 +14,10 @@ platforms, system integrations and production AI features.
 - 📊 Background in tourism/hospitality + finance/markets — I understand the business, not just the code
 - 🚀 Fast learner: went from hospitality to shipping production platforms in months
 
+### Featured project
+📈 **[SwingTrader — case study](https://github.com/PetkoKrPetkov/swingtrader-case-study)** — my personal trading journal & research assistant,
+built with Next.js, Supabase, public market-data APIs and Claude (including an MCP server). The code is private; the case study shows what it does and how it's built.
+
 ### Tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
