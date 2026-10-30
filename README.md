@@ -1,16 +1,17 @@
 # 👋 Petko Petkov
 
-**Digital System Manager** at Kleinwalsertal Tourismus. I connect systems, data and processes, and I like learning new things by building them.
+**Digital Systems & Integration Specialist** at Kleinwalsertal Tourismus. I connect systems, data and processes, and I like learning new things by building them.
 
-🏔️ My path hasn't been a straight line:
+🏔️ My path hasn't been a straight line, but it has always led to tourism:
+- **Tourism studies in Varna.** I studied tourism at the University of Economics – Varna.
 - **Fine dining, almost ten years.** I started as a commis de rang without speaking German and ended as chef de rang in a Michelin-starred restaurant.
-- **SoftUni, alongside that job.** I learned front-end development and graduated as a front-end developer.
+- **SoftUni, while working.** I learned front-end development and graduated as a front-end developer.
 - **Since December 2025: IT and digitalisation in tourism.**
 
 ### What I work on
 - 🔗 **System integration & data:** Feratel, Contwise and Pimcore. I map data between systems and find out why a sync broke.
 - ⚙️ **Automation:** internal data and workflows in Monday, Mailchimp and Google tools.
-- 🧩 **Custom web apps:** small tools built for exactly what a team needs, instead of another rigid SaaS product.
+- 🧩 **Custom web apps:** small tools built for exactly what a team needs, instead of another rigid SaaS product – for example a booking tool for advertising slots, a flipbook viewer for brochures instead of Issuu and a scheduling tool instead of Doodle.
 - 🤖 **AI-assisted development:** I work with Claude Code every day. I decide what to build, review it and test it; Claude writes much of the code.
 - 🌐 **Public APIs:** I like pulling their data into my own apps.
 
