@@ -3,15 +3,15 @@
 **Digital Systems & Integration Specialist** at Kleinwalsertal Tourismus. I connect systems, data and processes, and I like learning new things by building them.
 
 🏔️ My path hasn't been a straight line, but it has always led to tourism:
-- **Tourism studies in Varna.** I studied tourism at the University of Economics – Varna.
+- **Tourism studies in Varna.** Professional bachelor's degree from the College of Tourism at the University of Economics – Varna.
 - **Fine dining, almost ten years.** I started as a commis de rang without speaking German and ended as chef de rang in a Michelin-starred restaurant.
 - **SoftUni, while working.** I learned front-end development and graduated as a front-end developer.
 - **Since December 2025: IT and digitalisation in tourism.**
 
 ### What I work on
 - 🔗 **System integration & data:** Feratel, Contwise and Pimcore. I map data between systems and find out why a sync broke.
-- ⚙️ **Automation:** internal data and workflows in Monday, Mailchimp and Google tools.
-- 🧩 **Custom web apps:** small tools built for exactly what a team needs, instead of another rigid SaaS product – for example a booking tool for advertising slots, a flipbook viewer for brochures instead of Issuu and a scheduling tool instead of Doodle.
+- ⚙️ **Automation:** internal data and workflows in monday.com, Mailchimp and Google tools.
+- 🧩 **Custom web apps:** small tools built for exactly what a team needs, where off-the-shelf software doesn't quite fit – for example a booking tool for advertising slots, a flipbook viewer for brochures instead of Issuu and a scheduling tool instead of Doodle.
 - 🤖 **AI-assisted development:** I work with Claude Code every day. I decide what to build, review it and test it; Claude writes much of the code.
 - 🌐 **Public APIs:** I like pulling their data into my own apps.
 
@@ -33,8 +33,8 @@
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
 
 ### Languages
-🇧🇬 Bulgarian (native) · 🇩🇪 German (full professional) · 🇬🇧 English (good)
+🇧🇬 Bulgarian (native) · 🇩🇪 German (full professional) · 🇬🇧 English (professional working proficiency)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/petkov-petko)
 
-> Most of my work lives in private repositories. The SwingTrader case study shows how I build.
+> My work projects aren't public; the SwingTrader case study shows how I build.
